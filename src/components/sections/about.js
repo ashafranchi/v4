@@ -60,7 +60,7 @@ const StyledPic = styled.div`
     position: relative;
     width: 100%;
     border-radius: var(--border-radius);
-    background-color: var(--green);
+    // background-color: var(--lightest-navy);
 
     &:hover,
     &:focus {
@@ -82,7 +82,7 @@ const StyledPic = styled.div`
       position: relative;
       border-radius: var(--border-radius);
       mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1);
+      // filter: grayscale(100%) contrast(1);
       transition: var(--transition);
     }
 
@@ -100,12 +100,12 @@ const StyledPic = styled.div`
     &:before {
       top: 0;
       left: 0;
-      background-color: var(--navy);
+      // background-color: var(--navy);
       mix-blend-mode: screen;
     }
 
     &:after {
-      border: 2px solid var(--green);
+      border: transparent;
       top: 20px;
       left: 20px;
       z-index: -1;
@@ -152,8 +152,8 @@ const About = () => {
             <p>Hello! I'm Asha, a software engineer based in San Francisco, CA.</p>
 
             <p>
-              I enjoy programming and all things tech. My goal is to always build products that
-              provide user-friendly experiences.
+              I enjoy coding and scaling innovative technology. My goal is to always build products
+              that provide user-friendly experiences.
             </p>
 
             <p>
@@ -164,7 +164,7 @@ const About = () => {
               testing.
             </p>
 
-            <p>Here are a few languages I've been working in recently:</p>
+            <p>Here are a few programming languages I've been working in recently:</p>
           </div>
 
           <ul className="skills-list">

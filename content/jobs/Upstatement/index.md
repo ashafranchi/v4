@@ -1,12 +1,13 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Co-founder'
+company: 'Peal'
+location: 'San Francisco, CA'
+range: 'January 2020 - Present'
+url: 'https://getpeal.com/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Lead product and growth for a mobile health services app
+- Direct user testing on TestFlight iOS app
+- Funded by Breakthrough Lab, Brown's accelerator for high-impact ventures
+- Communicate with clients, partners, and research institutions on a daily basis

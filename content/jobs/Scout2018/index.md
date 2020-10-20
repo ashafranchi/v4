@@ -1,12 +1,11 @@
 ---
 date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+title: 'Product Analyst on B2B Team'
+company: 'Wayfair'
+location: 'Boston, MA'
+range: 'Summer 2018'
+url: 'https://www.wayfair.com/'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Designed email marketing initiatives that focused on sharing data insights
+- Increased our unique open rate by 34.8% among our B2B contacts, which resulted in key sales on a corporate level

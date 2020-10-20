@@ -1,10 +1,10 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+title: 'Summer Hackers Fellow'
+company: 'Lambda School'
+location: 'San Francisco, CA'
+range: 'Summer 2019'
+url: 'https://foundersatwork.posthaven.com/why-i-started-the-summer-hackers-program'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js
