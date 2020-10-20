@@ -132,7 +132,15 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = [
+    'Python',
+    'React',
+    'JavaScript (ES6+)',
+    'Node.js',
+    'HTML & (S)CSS',
+    'Swift',
+    'React Native',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,22 +149,22 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>Hello! I'm Asha, a software engineer based in San Francisco, CA.</p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              I enjoy programming and all things tech. My goal is to always build products that
+              provide user-friendly experiences.
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              I graduated from <a href="https://www.brown.edu/">Brown University</a> in May of 2020.
+              Upon graduation, I co-founded a mental health tech startup called{' '}
+              <a href="https://getpeal.com/">Peal</a> where we work to make cutting-edge mental
+              health technology accessible and inclusive. We currently have an iOS app in beta
+              testing.
             </p>
 
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>Here are a few languages I've been working in recently:</p>
           </div>
 
           <ul className="skills-list">

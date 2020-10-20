@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'asha.d.franchi@gmail.com',
 
   socialMedia: [
     {
@@ -15,12 +15,12 @@ module.exports = {
       url: 'https://codepen.io/bchiang7',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
       name: 'Twitter',
       url: 'https://twitter.com/bchiang7',
+    },
+    {
+      name: 'Inspo',
+      url: 'https://brittanychiang.com/',
     },
   ],
 
@@ -34,7 +34,7 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Projects',
       url: '/#projects',
     },
     {
