@@ -1,12 +1,13 @@
 ---
 date: '3'
-title: 'ExpenseTracker'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
+title: 'Expense Tracker'
+cover: './expensetracker.png'
+github: 'https://github.com/ashafranchi/expensetracker'
 external: 'https://expense-tracker-5im27hmsl.vercel.app/'
 tech:
-  - React.js
+  - React
   - Context API
+  - Hooks
 showInProjects: true
 ---
 
